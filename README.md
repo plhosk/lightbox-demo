@@ -6,6 +6,12 @@ This is a simple photo lightbox demo written using vanilla Javascript, HTML and 
 
 It uses the [Unsplash API](https://unsplash.com/documentation).
 
+## Features
+
+- Uses either mouse or keyboard (left/right arrow keys) to navigate
+- Responds to changes in browser height & width
+- Prefetches next 2 images in the background to reduce delay
+
 ## Live App
 
 To see the app running, visit [lightbox-demo-plhosk.surge.sh](https://lightbox-demo-plhosk.surge.sh).
