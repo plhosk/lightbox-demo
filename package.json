@@ -1,0 +1,19 @@
+{
+  "name": "lightbox-demo",
+  "version": "1.0.0",
+  "description": "Lightbox Demo in vanilla JS",
+  "main": "dist/index.html",
+  "scripts": {
+    "surge": "surge dist lightbox-demo-plhosk.surge.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plhosk/lightbox-demo.git"
+  },
+  "author": "Paul Hoskinson (plhosk@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plhosk/lightbox-demo/issues"
+  },
+  "homepage": "https://github.com/plhosk/lightbox-demo#readme"
+}
